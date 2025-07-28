@@ -255,18 +255,3 @@ def email_recent_file():
         show_poup("Email sent successfully!", "Email Sent")
     except Exception as e:
         show_poup(f"Failed to send email: {str(e)}", "Email Error")
-
-#Duplicate file handlers - done
-#Logging each relocation and storing in log file - done
-#Create shortcuts for each file in the destination folder - done
-#Do the same for the folder sorted by dates - done
-#add GUI functionality - done
-#solve for testcases where file inside a subfolder - done
-#If cannot find the directory corresponding the date, add to Older folder - done
-#Add email functionality to send the log file - done
-
-
-# fix the issues with datetime sorting (mainly the parameters in the functions) - ongoing
-
-
-# allow the script to save the last entered base path and use it as the default next time - pending
