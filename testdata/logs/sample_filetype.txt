@@ -1,0 +1,30 @@
+Log started at 2025-07-27 23:49:58
+C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By File Type successfully found. 
+Checking/Creating directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By File Type\Pictures 
+C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By File Type\Pictures successfully found. 
+Checking/Creating directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By File Type\Videos 
+C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By File Type\Videos successfully found. 
+Checking/Creating directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By File Type\Documents 
+C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By File Type\Documents successfully found. 
+Checking/Creating directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By File Type\Music 
+C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By File Type\Music successfully found. 
+Checking/Creating directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By File Type\Others 
+C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By File Type\Others successfully found. 
+All directories checked/created successfully. 
+Processing file: test.jpg
+Shortut file test.jpg already exists in Pictures.Processing file: test.mp3
+Shortut file test.mp3 already exists in Music.Processing file: test.mp4
+Shortut file test.mp4 already exists in Videos.Processing file: test.pdf
+Shortut file test.pdf already exists in Documents.Processing file: test.png
+Shortut file test.png already exists in Pictures.Processing file: test.txt
+Shortut file test.txt already exists in Documents.Processing file: test2.avi
+Shortut file test2.avi already exists in Videos.Processing file: test2.docx
+Shortut file test2.docx already exists in Documents.Processing file: test.avi
+Shortut file test.avi already exists in Videos.Processing file: test.docx
+Shortut file test.docx already exists in Documents.Processing file: test2.jpg
+Shortut file test2.jpg already exists in Pictures.Processing file: test2.mp3
+Shortut file test2.mp3 already exists in Music.Processing file: test2.mp4
+Shortut file test2.mp4 already exists in Videos.Processing file: test2.pdf
+Shortut file test2.pdf already exists in Documents.Processing file: test2.png
+Shortut file test2.png already exists in Pictures.Processing file: test2.txt
+Shortut file test2.txt already exists in Documents.File sorting by type completed successfully.

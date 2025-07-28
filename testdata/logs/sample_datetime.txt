@@ -1,0 +1,276 @@
+Log started at 2025-07-28 10:49:32
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\Older 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2020 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2020\01_January 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2020\02_February 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2020\03_March 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2020\04_April 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2020\05_May 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2020\06_June 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2020\07_July 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2020\08_August 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2020\09_September 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2020\10_October 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2020\11_November 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2020\12_December 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2021 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2021\01_January 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2021\02_February 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2021\03_March 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2021\04_April 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2021\05_May 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2021\06_June 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2021\07_July 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2021\08_August 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2021\09_September 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2021\10_October 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2021\11_November 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2021\12_December 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2022 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2022\01_January 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2022\02_February 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2022\03_March 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2022\04_April 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2022\05_May 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2022\06_June 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2022\07_July 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2022\08_August 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2022\09_September 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2022\10_October 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2022\11_November 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2022\12_December 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2023 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2023\01_January 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2023\02_February 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2023\03_March 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2023\04_April 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2023\05_May 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2023\06_June 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2023\07_July 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2023\08_August 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2023\09_September 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2023\10_October 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2023\11_November 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2023\12_December 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2024 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2024\01_January 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2024\02_February 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2024\03_March 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2024\04_April 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2024\05_May 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2024\06_June 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2024\07_July 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2024\08_August 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2024\09_September 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2024\10_October 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2024\11_November 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2024\12_December 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\01_January 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\02_February 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\03_March 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\04_April 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\05_May 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\06_June 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\07_July 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\08_August 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\09_September 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\10_October 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\11_November 
+Created directory: C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\12_December 
+All directories checked/created successfully.Sorting folders in: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder
+Sorting folders in: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\stupid ahh
+Sorting file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\stupid ahh\test.jpg
+Processing file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\stupid ahh\test.jpg
+File was created in 2025 and month 07 
+Checking month: 01_January 
+Checking month: 02_February 
+Checking month: 03_March 
+Checking month: 04_April 
+Checking month: 05_May 
+Checking month: 06_June 
+Checking month: 07_July 
+Creating shortcut at C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\07_July\test_jpg.lnk 
+Shortcut created for test.jpg in 2025/07_July 
+Sorting file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\stupid ahh\test.mp3
+Processing file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\stupid ahh\test.mp3
+File was created in 2025 and month 07 
+Checking month: 01_January 
+Checking month: 02_February 
+Checking month: 03_March 
+Checking month: 04_April 
+Checking month: 05_May 
+Checking month: 06_June 
+Checking month: 07_July 
+Creating shortcut at C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\07_July\test_mp3.lnk 
+Shortcut created for test.mp3 in 2025/07_July 
+Sorting file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\stupid ahh\test.mp4
+Processing file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\stupid ahh\test.mp4
+File was created in 2025 and month 07 
+Checking month: 01_January 
+Checking month: 02_February 
+Checking month: 03_March 
+Checking month: 04_April 
+Checking month: 05_May 
+Checking month: 06_June 
+Checking month: 07_July 
+Creating shortcut at C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\07_July\test_mp4.lnk 
+Shortcut created for test.mp4 in 2025/07_July 
+Sorting file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\stupid ahh\test.pdf
+Processing file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\stupid ahh\test.pdf
+File was created in 2025 and month 07 
+Checking month: 01_January 
+Checking month: 02_February 
+Checking month: 03_March 
+Checking month: 04_April 
+Checking month: 05_May 
+Checking month: 06_June 
+Checking month: 07_July 
+Creating shortcut at C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\07_July\test_pdf.lnk 
+Shortcut created for test.pdf in 2025/07_July 
+Sorting file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\stupid ahh\test.png
+Processing file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\stupid ahh\test.png
+File was created in 2025 and month 07 
+Checking month: 01_January 
+Checking month: 02_February 
+Checking month: 03_March 
+Checking month: 04_April 
+Checking month: 05_May 
+Checking month: 06_June 
+Checking month: 07_July 
+Creating shortcut at C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\07_July\test_png.lnk 
+Shortcut created for test.png in 2025/07_July 
+Sorting file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\stupid ahh\test.txt
+Processing file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\stupid ahh\test.txt
+File was created in 2025 and month 07 
+Checking month: 01_January 
+Checking month: 02_February 
+Checking month: 03_March 
+Checking month: 04_April 
+Checking month: 05_May 
+Checking month: 06_June 
+Checking month: 07_July 
+Creating shortcut at C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\07_July\test_txt.lnk 
+Shortcut created for test.txt in 2025/07_July 
+Sorting file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\stupid ahh\test2.avi
+Processing file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\stupid ahh\test2.avi
+File was created in 2025 and month 07 
+Checking month: 01_January 
+Checking month: 02_February 
+Checking month: 03_March 
+Checking month: 04_April 
+Checking month: 05_May 
+Checking month: 06_June 
+Checking month: 07_July 
+Creating shortcut at C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\07_July\test2_avi.lnk 
+Shortcut created for test2.avi in 2025/07_July 
+Sorting file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\stupid ahh\test2.docx
+Processing file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\stupid ahh\test2.docx
+File was created in 2025 and month 07 
+Checking month: 01_January 
+Checking month: 02_February 
+Checking month: 03_March 
+Checking month: 04_April 
+Checking month: 05_May 
+Checking month: 06_June 
+Checking month: 07_July 
+Creating shortcut at C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\07_July\test2_docx.lnk 
+Shortcut created for test2.docx in 2025/07_July 
+Sorting file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\test.avi
+Processing file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\test.avi
+File was created in 2025 and month 07 
+Checking month: 01_January 
+Checking month: 02_February 
+Checking month: 03_March 
+Checking month: 04_April 
+Checking month: 05_May 
+Checking month: 06_June 
+Checking month: 07_July 
+Creating shortcut at C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\07_July\test_avi.lnk 
+Shortcut created for test.avi in 2025/07_July 
+Sorting file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\test.docx
+Processing file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\test.docx
+File was created in 2025 and month 07 
+Checking month: 01_January 
+Checking month: 02_February 
+Checking month: 03_March 
+Checking month: 04_April 
+Checking month: 05_May 
+Checking month: 06_June 
+Checking month: 07_July 
+Creating shortcut at C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\07_July\test_docx.lnk 
+Shortcut created for test.docx in 2025/07_July 
+Sorting file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\test2.jpg
+Processing file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\test2.jpg
+File was created in 2025 and month 07 
+Checking month: 01_January 
+Checking month: 02_February 
+Checking month: 03_March 
+Checking month: 04_April 
+Checking month: 05_May 
+Checking month: 06_June 
+Checking month: 07_July 
+Creating shortcut at C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\07_July\test2_jpg.lnk 
+Shortcut created for test2.jpg in 2025/07_July 
+Sorting file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\test2.mp3
+Processing file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\test2.mp3
+File was created in 2025 and month 07 
+Checking month: 01_January 
+Checking month: 02_February 
+Checking month: 03_March 
+Checking month: 04_April 
+Checking month: 05_May 
+Checking month: 06_June 
+Checking month: 07_July 
+Creating shortcut at C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\07_July\test2_mp3.lnk 
+Shortcut created for test2.mp3 in 2025/07_July 
+Sorting file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\test2.mp4
+Processing file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\test2.mp4
+File was created in 2025 and month 07 
+Checking month: 01_January 
+Checking month: 02_February 
+Checking month: 03_March 
+Checking month: 04_April 
+Checking month: 05_May 
+Checking month: 06_June 
+Checking month: 07_July 
+Creating shortcut at C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\07_July\test2_mp4.lnk 
+Shortcut created for test2.mp4 in 2025/07_July 
+Sorting file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\test2.pdf
+Processing file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\test2.pdf
+File was created in 2025 and month 07 
+Checking month: 01_January 
+Checking month: 02_February 
+Checking month: 03_March 
+Checking month: 04_April 
+Checking month: 05_May 
+Checking month: 06_June 
+Checking month: 07_July 
+Creating shortcut at C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\07_July\test2_pdf.lnk 
+Shortcut created for test2.pdf in 2025/07_July 
+Sorting file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\test2.png
+Processing file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\test2.png
+File was created in 2025 and month 07 
+Checking month: 01_January 
+Checking month: 02_February 
+Checking month: 03_March 
+Checking month: 04_April 
+Checking month: 05_May 
+Checking month: 06_June 
+Checking month: 07_July 
+Creating shortcut at C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\07_July\test2_png.lnk 
+Shortcut created for test2.png in 2025/07_July 
+Sorting file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\test2.txt
+Processing file: C:/Users/User/OneDrive/Desktop/Projects/FileSorter/rawfolder\test2.txt
+File was created in 2025 and month 07 
+Checking month: 01_January 
+Checking month: 02_February 
+Checking month: 03_March 
+Checking month: 04_April 
+Checking month: 05_May 
+Checking month: 06_June 
+Checking month: 07_July 
+Creating shortcut at C:/Users/User/OneDrive/Desktop/Projects/FileSorter\By Date\2025\07_July\test2_txt.lnk 
+Shortcut created for test2.txt in 2025/07_July 
+File sorting by datetime completed successfully.
